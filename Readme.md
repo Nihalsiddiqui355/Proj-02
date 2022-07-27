@@ -7,7 +7,7 @@
 
 > Project Preview
 
-![](./asset/02Project.png)
+![](./assets/02Project.png)
 
 
 > ## What l learned from this Project?
