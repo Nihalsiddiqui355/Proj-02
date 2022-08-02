@@ -3,7 +3,7 @@
 
 - By Nihal Siddiqui
 
-> live priview [Link](https://restaurant02proj.netlify.app/)
+> live priview [Link](https://fullstack-js-project-02.netlify.app/)
 
 > Project Preview
 
